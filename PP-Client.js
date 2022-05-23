@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name         PP-Client Ultra
-// @name:ru      PP-Client Ultra
+// @name         PP-Client.js
+// @name:ru      PP-Client.js
 // @description  Pixel Place Client
 // @description:ru  Pixel Place Клиент
 // @version      1.6.2
